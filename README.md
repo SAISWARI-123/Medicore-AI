@@ -1,4 +1,4 @@
-# 🩺 Medicore-AI  
+# 🤖 Medicore-AI  
 *A Retrieval-Augmented Medical Chat Assistant*  
 
 ## 🔍 Introduction  
@@ -60,9 +60,9 @@ This workflow allows the system to dynamically adapt to any new set of medical d
     └── README.md
 ---
 
-## ## 🏗️ Architecture
+## 🏗️ Architecture
 
-![Medicore-AI Architecture]
+<img src="./assets/Med-ai-architecture_diagram.png" alt="Medicore-AI Architecture" width="700">
 
 ## ⚡ Setup Instructions  
 
